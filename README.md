@@ -67,6 +67,6 @@ SHAP provides a unified measure of feature importance by calculating the margina
 ## 7. Citation & Data Availability
 All data, including the 82-band feature extractions and the Python SHAP pipeline, are openly available to ensure full reproducibility.
 
-**Citation:** > *MJOMBA, L. (2025). Evaluating Spectral, Terrain, and Textural Predictors in LULC Mapping Using SHAP and Tree-Based Classifiers. [Conference Paper]*
+**Citation:** > *When the conference paper is published [Conference Paper]*
 
 Licensed under the **MIT License**.
