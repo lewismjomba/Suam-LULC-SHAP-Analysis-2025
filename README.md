@@ -2,7 +2,7 @@
 ### Suam LULC Analysis 2025: Explainable AI in Remote Sensing
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GEE-Code](https://img.shields.io/badge/Google_Earth_Engine-Script-blue)]([https://code.earthengine.google.com/](https://code.earthengine.google.com/f34a74528d719c8af3367a65edb9ab06)
+[![GEE-Code](https://img.shields.io/badge/Google_Earth_Engine-Script-blue)](https://code.earthengine.google.com/f34a74528d719c8af3367a65edb9ab06)
 [![Python-SHAP](https://img.shields.io/badge/Python-XAI_SHAP-green?logo=python&logoColor=white)](scripts/shap_analysis.ipynb)
 
 ## 1. Abstract
